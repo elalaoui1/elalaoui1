@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm ELALAOUI</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Web developer</h3>
 <img src='img/elalaoui.png' alt='Alt Text'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim2251&label=Profile%20views&color=0e75b6&style=flat" alt="karim2251" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elalaoui1&label=Profile%20views&color=0e75b6&style=flat" alt="elalaoui1" /> </p>
 
 
 
@@ -16,11 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/karim2251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="karim2251" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elalaoui-abdelkarim-5b1600252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elalaoui-abdelkarim-5b1600252" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22424462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22424462" height="30" width="40" /></a>
-<a href="https://instagram.com/karim.code.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karim.code.7" height="30" width="40" /></a>
-<a href="https://dribbble.com/elalaoui777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="elalaoui777" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/a._.elalaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a._.elalaoui" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/elalaouiabdelka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elalaouiabdelka1" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -31,7 +30,7 @@ User
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim2251&show_icons=true&locale=en&layout=compact" alt="karim2251" /></p><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim2251&show_icons=true&locale=en" alt="karim2251" /></p><br/><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elalaoui1&show_icons=true&locale=en&layout=compact" alt="elalaoui1" /></p><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elalaoui1&show_icons=true&locale=en" alt="elalaoui1" /></p><br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim2251&" alt="karim2251" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elalaoui1&" alt="elalaoui1" /></p>
