@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ELALAOUI</h1>
 <h3 align="center">Web developer</h3>
-<img src='img/elalaoui.png' alt='Alt Text'>
+<img src='img/ABDELKARIM.jpg' alt='Alt Text'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elalaoui1&label=Profile%20views&color=0e75b6&style=flat" alt="elalaoui1" /> </p>
 
